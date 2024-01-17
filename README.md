@@ -16,7 +16,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://img.freepik.com/free-photo/html-system-website-concept_23-2150376770.jpg?w=740&t=st=1705470498~exp=1705471098~hmac=8b41faa5548d7ded94db66ee9b9d770cefd40322bfb881d5dbb11ccf0501b271">
+  <img align="center" alt="Coding" height="200px" width="450" src="https://img.freepik.com/free-photo/html-system-website-concept_23-2150376770.jpg?w=740&t=st=1705470498~exp=1705471098~hmac=8b41faa5548d7ded94db66ee9b9d770cefd40322bfb881d5dbb11ccf0501b271">
 
   
   </td>
