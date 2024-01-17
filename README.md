@@ -42,9 +42,17 @@
 </tr>
 </table>
 
-<h3 align="center">Connect with me:</h3>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
+
+<!--icons and links-->
 <p align="center">
-<a href="https://linkedin.com/in/hazzaz-abdul-mannan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hazzaz-abdul-mannan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hazzaz-abdul-mannan/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a> 
+<a href="https://discord.gg/__hazzaz" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+  
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
