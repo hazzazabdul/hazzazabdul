@@ -1,14 +1,28 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Hazzaz Abdul Mannan</h1>
 <h3 align="center">A passionate front-end developer from Bangladesh</h3>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hazzazabdul&label=Profile%20views&color=0e75b6&style=flat" alt="hazzazabdul" /> </p>
 
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
 - 🌱 I’m currently learning **Javascript**
 
 - 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **hazzazabdulmannan@gmail.com**
+
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  
+  </td>
+</tr>
+</table>
+
 
 <h3 align="center">My Statistics:</h3>
 <p align="center">
